@@ -3,5 +3,6 @@ __pycache__/
 .env
 prepare_test.py
 grades.json
+*.ps1
 *.log
 *.txt
